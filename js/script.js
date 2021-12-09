@@ -18,6 +18,6 @@ console.table(nj)
 
 console.log(value)
 
-//let  anweser=confirm("hi");
+let  anweser=confirm("hi");
 
-//console.log(anweser)
+console.log(anweser)
